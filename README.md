@@ -1,5 +1,5 @@
 # AlmaBulletin
-A web app for sharing posts, updates, etc. by students and professors on a common platform. Created with Python (Flask), HTML, CSS, SQLite, it has been dockerised and deployed on Amazon EC2 Instance. 
+A web app for sharing posts, updates, etc. by students and professors on a common platform. Created with Python (Flask), HTML, CSS, SQLite, it has been containerised with Docker and deployed on Amazon EC2 Instance. 
 
 URL: http://ec2-18-224-150-187.us-east-2.compute.amazonaws.com:5001/
 
