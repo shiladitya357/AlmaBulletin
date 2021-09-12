@@ -19,8 +19,8 @@ app.config['MAIL_PORT'] = 465
 app.config['MAIL_USE_SSL'] = True
 # app.config['MAIL_USERNAME'] = os.environ.get('EMAIL_USER')
 # app.config['MAIL_PASSWORD'] = os.environ.get('EMAIL_PASS')
-app.config['MAIL_USERNAME'] = 'shiladitya.development@gmail.com'
-app.config['MAIL_PASSWORD'] = 'Shiladitya@29197'
+app.config['MAIL_USERNAME'] = 'sh*****************@gmail.com'
+app.config['MAIL_PASSWORD'] = '******************'
 mail = Mail(app)
 
 from bulletin import routes
